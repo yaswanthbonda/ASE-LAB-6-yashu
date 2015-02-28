@@ -1,0 +1,4 @@
+\\kc.umkc.edu\kc-users\home\y\ybty9\my documents\visual studio 2010\Projects\yaswanth_lab_6\yaswanth_lab_6\bin\yaswanth_lab_6.dll
+\\kc.umkc.edu\kc-users\home\y\ybty9\my documents\visual studio 2010\Projects\yaswanth_lab_6\yaswanth_lab_6\bin\yaswanth_lab_6.pdb
+\\kc.umkc.edu\kc-users\home\y\ybty9\my documents\visual studio 2010\Projects\yaswanth_lab_6\yaswanth_lab_6\obj\Debug\yaswanth_lab_6.dll
+\\kc.umkc.edu\kc-users\home\y\ybty9\my documents\visual studio 2010\Projects\yaswanth_lab_6\yaswanth_lab_6\obj\Debug\yaswanth_lab_6.pdb
